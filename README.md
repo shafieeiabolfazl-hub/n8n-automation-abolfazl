@@ -17,8 +17,9 @@ N8N automation workflows by Abolfazl Shafieei | ورک‌فلوهای اتوما
   در حین پیکربندی و تست، با خطاهای مختلفی مواجه شدم و تصمیم گرفتم ادامه کار را فردا انجام دهم.  
   هدف این پروژه، ساخت خودکارسازی‌های کاربردی برای پروژه‌های شخصی من است.
 
-  ### Screenshot | اسکرین‌شات
 
-![N8N Error](24 -.png)
+### Screenshot | اسکرین‌شات
+
+![N8N Error](https://raw.githubusercontent.com/abolfazl-shafieei/n8n-automation-abolfazl/main/اسم-فایلت.png)
 
 
