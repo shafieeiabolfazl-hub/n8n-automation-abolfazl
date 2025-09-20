@@ -5,7 +5,8 @@ N8N automation workflows by Abolfazl Shafieei | ورک‌فلوهای اتوما
 
 ## 📌 Project Log | گزارش پروژه
 
-**2025-09-20**
+**2025-09-20**<img width="1680" height="903" alt="24 -" src="https://github.com/user-attachments/assets/cd918b0e-ef57-4c70-a73b-a8f91105c280" />
+
 
 - **English:**  
   Started working on an automation workflow in N8N.  
@@ -18,8 +19,5 @@ N8N automation workflows by Abolfazl Shafieei | ورک‌فلوهای اتوما
   هدف این پروژه، ساخت خودکارسازی‌های کاربردی برای پروژه‌های شخصی من است.
 
 
-### Screenshot | اسکرین‌شات
-
-![N8N Error](https://raw.githubusercontent.com/abolfazl-shafieei/n8n-automation-abolfazl/main/24 -.png)
 
 
