@@ -19,6 +19,6 @@ N8N automation workflows by Abolfazl Shafieei | ورک‌فلوهای اتوما
 
   ### Screenshot | اسکرین‌شات
 
-![N8N Error]()
+![N8N Error](24 -.png)
 
 
