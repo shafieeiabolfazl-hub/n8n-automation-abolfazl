@@ -20,6 +20,6 @@ N8N automation workflows by Abolfazl Shafieei | ورک‌فلوهای اتوما
 
 ### Screenshot | اسکرین‌شات
 
-![N8N Error](https://raw.githubusercontent.com/abolfazl-shafieei/n8n-automation-abolfazl/main/اسم-فایلت.png)
+![N8N Error](https://raw.githubusercontent.com/abolfazl-shafieei/n8n-automation-abolfazl/main/24 -.png)
 
 
